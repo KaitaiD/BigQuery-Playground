@@ -1,4 +1,4 @@
 # BigQuery-Playground
 
 I took a Coursera BigQuery course and use what I have learned on Kaggle's real data for fun. I showcase a project
-in here. fdsfads
+in here.
