@@ -1,3 +1,3 @@
 # BigQuery-Playground
 
-My Bigquery playground
+My Bigquery showcase
